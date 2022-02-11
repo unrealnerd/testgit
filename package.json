@@ -27,7 +27,7 @@
     "browserify": "^16.3.0",
     "copyfiles": "^2.1.1",
     "jsverify": "^0.8.4",
-    "karma": "^4.2.0",
+    "karma": "^6.3.14",
     "karma-browserify": "^6.1.0",
     "karma-chrome-launcher": "^3.0.0",
     "karma-firefox-launcher": "^1.1.0",
